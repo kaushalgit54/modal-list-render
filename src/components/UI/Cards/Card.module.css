@@ -1,0 +1,20 @@
+.card{
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    background-color: #67aa94;
+    border-radius: 10px;
+    padding: 2px;
+    height: fit-content;
+    margin: 15px;
+}
+
+  .output-box{
+    background-color: #a4d7be;
+    height: fit-content;
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    box-shadow: 10px 7px 15px;
+     border-radius: 10px;
+     padding: 0.1px;
+     width: 70%;
+  }

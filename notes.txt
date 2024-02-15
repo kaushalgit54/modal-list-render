@@ -1,0 +1,8 @@
+In this applicatioin here we are using portals to attach modal window directly beside the root element body in html.
+Portals works as it renders a component's DOM subtree into a different DOM element, outside of the component's parent component's parent component.
+Portals are useful when you want to render a component into a different part of the DOM, such as the body element or a modal dialog, without having to worry about the component's parent component or the rest of the DOM tree.
+
+--> Here To show the modal window in this application we first added two div id's in index.html so that those divs render beside root element body irrespective of how big the aplication will be.
+--> Then inside ErrorWindow.js we will import ReactDOM from 'react-dom' which is used to connect those two divs inside ErroWindow.js with the implementing functions.
+
+--> After that we will render those inside <React.Fragment>.

@@ -1,0 +1,12 @@
+.list{
+    background-color: rgb(45 64 74);
+    color: white;
+    border-radius: 4px;
+    height: 20px;
+    font-size: 15px;
+    font-weight: 400;
+    width: 80%;
+    margin: 3px;
+    padding: 2px;
+    list-style-type: none;
+}

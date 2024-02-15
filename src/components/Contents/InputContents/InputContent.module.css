@@ -1,0 +1,14 @@
+.inputbox{
+    margin: 25px;
+   padding: 10px;
+
+}
+.input{
+    width: 70%;
+    height: 20px;
+    border-radius: 3px;
+}
+.inputbox label{
+    font-size: 18px;
+    font-weight: bold;
+}
